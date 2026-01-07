@@ -1,4 +1,4 @@
-baseURL = "baseURL = "https://youth-cornelia.github.io/youthcornelia.github.io/"
+baseURL = https://youth-cornelia.github.io/youthcornelia.github.io/"
 title = "My Blog"
 theme = "hugo-theme-stack"
 languageCode = "en-us"
