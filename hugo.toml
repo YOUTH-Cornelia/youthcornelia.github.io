@@ -1,0 +1,43 @@
+baseURL = "https://youthcornelia.github.io/"
+title = "My Blog"
+theme = "hugo-theme-stack"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+[pagination]
+pagerSize = 10
+
+[params.sidebar]
+subtitle = "Computer Science · Projects · Notes"
+
+[params.article]
+toc = true
+
+[[params.widgets.homepage]]
+type = "search"
+
+[[params.widgets.homepage]]
+type = "archives"
+
+[[params.widgets.homepage]]
+type = "tag-cloud"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archives"
+url = "/archives/"
+weight = 4
+
