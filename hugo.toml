@@ -12,6 +12,9 @@ subtitle = "Computer Science · Projects · Notes"
 [params.article]
 toc = true
 
+[params]
+mainSections = ["post"]
+
 [[params.widgets.homepage]]
 type = "search"
 
