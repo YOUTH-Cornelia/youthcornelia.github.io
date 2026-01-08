@@ -6,8 +6,10 @@ defaultContentLanguage = "en"
 [pagination]
 pagerSize = 10
 
-[params.sidebar]
-subtitle = "Computer Science · Projects · Notes"
+[params.author]
+name = "Youth Cornelia"
+bio = "Computer Science · Projects · Notes"
+avatar = "img/avatar.jpg"
 
 [params.article]
 toc = true
@@ -43,4 +45,3 @@ weight = 3
 name = "Archives"
 url = "/archives/"
 weight = 4
-
