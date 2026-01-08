@@ -12,7 +12,13 @@ bio = "Computer Science · Projects · Notes"
 avatar = "img/avatar.jpg"
 
 [params.sidebar]
+subtitle = "Computer Science · Projects · Notes"
 avatar = "img/avatar.jpg"
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.jpg"
 
 [params.footer]
 since = 2024
