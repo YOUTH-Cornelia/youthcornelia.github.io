@@ -11,6 +11,14 @@ name = "Youth Cornelia"
 bio = "Computer Science · Projects · Notes"
 avatar = "img/avatar.jpg"
 
+[params.sidebar]
+avatar = "img/avatar.jpg"
+
+[params.footer]
+since = 2024
+custom = true
+customText = "YOUTH"
+
 [params.article]
 toc = true
 
