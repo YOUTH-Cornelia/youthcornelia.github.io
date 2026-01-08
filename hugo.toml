@@ -9,11 +9,9 @@ pagerSize = 10
 [params.author]
 name = "Youth Cornelia"
 bio = "Computer Science · Projects · Notes"
-avatar = "img/avatar.jpg"
 
 [params.sidebar]
 subtitle = "Computer Science · Projects · Notes"
-avatar = "img/avatar.jpg"
 
 [params.sidebar.avatar]
 enabled = true
