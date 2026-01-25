@@ -1,7 +1,7 @@
 +++
 date = '2026-01-25T16:22:03+11:00'
 draft = false
-title = 'Leetcode1768. Merge Strings Alternately'
+title = 'Merge-Strings-Alternately'
 categories:
   - LeetCode
 tags:
