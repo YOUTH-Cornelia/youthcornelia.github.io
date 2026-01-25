@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on My Blog</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on My Blog</description>
+        <title>String on My Blog</title>
+        <link>http://localhost:1313/tags/string/</link>
+        <description>Recent content in String on My Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/string/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Merge Strings Alternately</title>
         <link>http://localhost:1313/post/merge-strings-alternately/</link>
         <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
@@ -53,16 +53,6 @@
 &lt;h3 id=&#34;易错点我真的踩过&#34;&gt;易错点（我真的踩过）
 &lt;/h3&gt;&lt;p&gt;❌ 忘了 &lt;code&gt;len(word1) == len(word2)&lt;/code&gt;
 ❌ &lt;code&gt;result&lt;/code&gt; 只在 if 里赋值，等长时会炸&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Hello World</title>
-        <link>http://localhost:1313/post/hello-world/</link>
-        <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/post/hello-world/</guid>
-        <description>&lt;p&gt;This is my first post.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m building my personal technical blog with &lt;strong&gt;Hugo + Stack + GitHub Pages&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;🚀&lt;/p&gt;</description>
         </item>
         
     </channel>
