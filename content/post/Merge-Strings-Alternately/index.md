@@ -7,14 +7,12 @@ tags: ["String", "Two Pointers"]
 leetcode_id: 1768
 ---
 
-### Description:
+## Description:
 You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
 
 Return the merged string.
 
 ![](image.png)
-
-# 交替拼接字符串（merge alternately）
 
 ## 一、这道题在干嘛（一句话）
 
@@ -150,8 +148,6 @@ zip_longest(word1, word2, fillvalue="")
 > **这道题不难，难的是：
 > 别在一开始就把情况分死，
 > 能在循环里慢慢判断的，就别提前分类。**
-
----
 
 
 
