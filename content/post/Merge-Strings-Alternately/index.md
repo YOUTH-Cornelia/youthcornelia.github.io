@@ -12,9 +12,7 @@ You are given two strings word1 and word2. Merge the strings by adding letters i
 
 Return the merged string.
 
-![alt text](image.png)
-
----
+![](image.png)
 
 # 交替拼接字符串（merge alternately）— 我的完整笔记
 
