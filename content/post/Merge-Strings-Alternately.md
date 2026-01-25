@@ -1,13 +1,10 @@
 ---
-date = '2026-01-25T16:22:03+11:00'
-draft = false
-title = 'Merge-Strings-Alternately'
-categories:
-  - LeetCode
-tags:
-  - LeetCode
-  - Array
-  - HashMap
+title: "Merge Strings Alternately"
+date: 2026-01-25
+draft: false
+categories: ["LeetCode"]
+tags: ["String", "Two Pointers"]
+leetcode_id: 1768
 ---
 
 ### Description:
