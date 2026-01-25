@@ -14,7 +14,7 @@ Return the merged string.
 
 ![](image.png)
 
-# 交替拼接字符串（merge alternately）— 我的完整笔记
+# 交替拼接字符串（merge alternately）
 
 ## 一、这道题在干嘛（一句话）
 
