@@ -26,17 +26,12 @@ customText = "YOUTH"
 [params.article]
 toc = true
 
+[params.widgets]
+homepage = ["search", "archives", "tag-cloud"]
+page = ["toc", "search", "archives", "tag-cloud"]
+
 [params]
 mainSections = ["post"]
-
-[[params.widgets.homepage]]
-type = "search"
-
-[[params.widgets.homepage]]
-type = "archives"
-
-[[params.widgets.homepage]]
-type = "tag-cloud"
 
 [[menu.main]]
 name = "Home"
