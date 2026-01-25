@@ -26,8 +26,6 @@ customText = "YOUTH"
 [params.article]
 toc = true
 
-[params.widgets]
-
 [[params.widgets.homepage]]
 type = "search"
 
