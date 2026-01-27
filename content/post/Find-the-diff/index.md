@@ -1,5 +1,14 @@
+---
+title: "Find the difference"
+date: 2026-01-27
+draft: false
+categories: ["LeetCode"]
+tags: ["String", "hash", "sort"]
+leetcode_id: 28
+---
 
-## Description: https://leetcode.cn/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills
+## Description: 
+[Leetcode 28: Find the difference](https://leetcode.cn/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills)
 
 ## 从 `in` 到 `remove` 到哈希表：我把这道字符串题彻底想明白的全过程
 
