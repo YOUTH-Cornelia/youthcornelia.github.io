@@ -1,3 +1,15 @@
+---
+title: "Can Make Arithmetic Progression From Sequence"
+date: 2026-02-07
+draft: false
+categories: ["LeetCode"]
+tags: ["Array"]
+leetcode_id: 1502
+---
+
+## Description:
+[Leetcode 1502. Can Make Arithmetic Progression From Sequence](https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills)
+
 # 关于判断题中 `i` 的初始值、边界与 return 位置的统一理解
 
 ## 写这篇的原因
